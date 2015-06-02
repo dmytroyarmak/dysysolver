@@ -1,0 +1,22 @@
+{
+  "name": "dysysolver",
+  "version": "0.0.1",
+  "description": "Dynamic Systems Modeling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dmytroyarmak/dysysolver.git"
+  },
+  "author": "Dmytro Yarmak <dmytroyarmak@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmytroyarmak/dysysolver/issues"
+  },
+  "homepage": "https://github.com/dmytroyarmak/dysysolver",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
